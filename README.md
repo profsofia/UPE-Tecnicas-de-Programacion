@@ -3,10 +3,10 @@
 Repositorio grupal para el desarrollo del proyecto final y ejercicios de la cursada.
 
 ## 👥 Integrantes del Equipo
-* **Sofía Schenone** (@profsofia)
-* **Agustín Perea** (@usuario)
+* **Sofía Schenone** (@sofiaschenone)
+* **Agustín Perea** (@AgustinP05)
 * **Agostina**     (@agosvillamayor)
-* **Julieta**      (@nombre)
+* **Julieta**      (@julazaro)
 
 ## 🛠️ Tecnologías
 * **Lenguaje:** C# / .NET
