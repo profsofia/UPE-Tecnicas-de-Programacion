@@ -5,7 +5,7 @@ Repositorio grupal para el desarrollo del proyecto final y ejercicios de la curs
 ## 👥 Integrantes del Equipo
 * **Sofía Schenone** (@profsofia)
 * **Agustín Perea** (@usuario)
-* **Agostina**     (@usuario)
+* **Agostina**     (@agosvillamayor)
 * **Julieta**      (@nombre)
 
 ## 🛠️ Tecnologías
